@@ -8,4 +8,4 @@ categories: test post
 'testing' 
 [facebook][fb]
 
-[fb]=www.facebook.com/prashant.budania
+[fb]: www.facebook.com/prashant.budania
