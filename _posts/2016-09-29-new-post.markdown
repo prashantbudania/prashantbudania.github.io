@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test post"
-date:   2016-09-029 11:56:45 -0400
+date:   2016-09-29 11:56:45 -0400
 categories: test post
 ---
 
