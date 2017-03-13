@@ -5,7 +5,7 @@ date:   2017-03-12 14:36:45 -0400
 categories: jekyll update
 ---
 
-'_Intro' '_to' [ML](http://www.cs.cmu.edu/~mgormley/courses/10601-s17/)
+'_intro' [ML](http://www.cs.cmu.edu/~mgormley/courses/10601-s17/)
 
 {%highlight python%}
 
